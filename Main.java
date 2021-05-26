@@ -5,6 +5,7 @@ public class Main{
 	public static void main(String[] args){
 		
 		Scanner scan = new Scanner(System.in);
+		System.out.println("Added in github");
 		
 		arr[5];
 		int count = 0;			
